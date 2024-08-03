@@ -1,4 +1,3 @@
 Hello!!
-my name is parham moeini.
-I study in George Brown College in Toronto/Canada
+Its Parham, York University student based on Toronto, Ontario. 
 
